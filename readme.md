@@ -1,4 +1,4 @@
-// Arithemetic Operators
+// Q1  Arithemetic Operators
 + - * / % ++ --
 
 Assignment Operators
@@ -14,7 +14,7 @@ Biwise Operators
 & | >> << >>>
 
 
-// EXAMPLES
+// Q2 EXAMPLES
 Arthemetic Operators
 let a = 5;
 let b = 10;
@@ -40,3 +40,13 @@ console.log(a < 5 || a >0);
 Biwise Operators
 x & y
 x << y  
+console.log(x & y)
+
+
+//Q4  for (let i = 1; i < 20; i += 7) {
+    console.log(i);
+}
+answer is 
+1
+8
+15
